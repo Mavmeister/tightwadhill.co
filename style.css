@@ -3,3 +3,8 @@
   widght: 500px;
   float: right;
 }
+
+#text {
+  float: left;
+  margin: 10px;
+}
