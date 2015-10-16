@@ -1,10 +1,24 @@
+h1 {
+  background-color: gold;
+}
 #titans {
-  height: 500px;
-  widght: 500px;
+  height: 200px;
+  widght: 200px;
   float: right;
+  margin-right: 20px;
 }
 
 #text {
   float: left;
   margin: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  display: inline-block;
+
+}
+
+html {
+  background-image: url('IMG_0767wide.jpg');
+  background-size: 1500px;
+  background-repeat: no-repeat;
 }
