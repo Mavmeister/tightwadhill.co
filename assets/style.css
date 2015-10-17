@@ -1,13 +1,17 @@
 h1 {
   background-color: gold;
+  padding-left: 10px;
 }
-#titans {
+.titans {
   height: 200px;
   widght: 200px;
   float: right;
   margin-right: 20px; 
 }
-
+.B:hover {
+  content: url('IMG_0767wide.jpg');
+  margin-top: -130px;
+}
 #text {
   float: left;
   margin: 10px;
