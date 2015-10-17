@@ -10,7 +10,7 @@ h1 {
 }
 .B:hover {
   content: url('IMG_0767wide.jpg');
-  margin-top: -130px;
+  width: 150px;
 }
 #text {
   float: left;
